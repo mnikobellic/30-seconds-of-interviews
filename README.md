@@ -5,9 +5,7 @@
 </h1>
 
 <h4 align="center">A curated collection of common interview questions to help you prepare for your next interview.</h4>
-
 <br>
-
 <p align="center">
   <a href="https://gitter.im/30-seconds-of-interviews/Lobby"><img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg" alt="gitter"></a>
     <a href="https://github.com/fejes713/30-seconds-of-interviews/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
